@@ -102,42 +102,83 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-/* write all the steps invloved */
+STEP 1: Open Quartus II and select new project and choose the file location.
 
+STEP 2: Module Declaration. Module should have the file name.
 
+STEPS 3: Input-Output Delecaration.
+
+STEPS 4: Use assign declaration and wire to define the functionality of logic circuits.
+
+STEP 5: At the end give endmodule.
+
+STEP 6: Run the program and choose RTL viewer to get RTL realization.
 
 ### PROGRAM 
 /*
-Program for flipflops  and verify its truth table in quartus using Verilog programming.
+Program for flipflops  and verify its truth table in quartus using Verilog programming. 
+
 Developed by: LATHIKA L.J
 RegisterNumber:  23012411
-*/
-![image](https://github.com/Lathika2006/Experiment--05-Implementation-of-flipflops-using-verilog/assets/148959215/6a5c2888-e1be-4ed8-b3f4-58504f9d94bb)
+### CODE:
 
+## SR FLIPFLOP
 
+![image](https://github.com/Lathika2006/Experiment--05-Implementation-of-flipflops-using-verilog/assets/148959215/ee39e574-2469-4629-aca1-09c7c3019317)
 
+## D FLIPFLOP
+
+![image](https://github.com/Lathika2006/Experiment--05-Implementation-of-flipflops-using-verilog/assets/148959215/40d21560-27b8-47f5-bf73-1781c41c65d5)
+
+## JK FLIPFLOP
+
+![image](https://github.com/Lathika2006/Experiment--05-Implementation-of-flipflops-using-verilog/assets/148959215/e22a29cd-1390-4e50-ad84-a557e6976ccd)
+
+## T FLIPFLOP
+
+![image](https://github.com/Lathika2006/Experiment--05-Implementation-of-flipflops-using-verilog/assets/148959215/60b46085-6091-4b8e-b02a-a774360fd569)
 
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
-![image](https://github.com/Lathika2006/Experiment--05-Implementation-of-flipflops-using-verilog/assets/148959215/3f63b2f5-3305-4217-9cc5-d82530567fee)
+### SR FLIPFLOP
 
+![image](https://github.com/Lathika2006/Experiment--05-Implementation-of-flipflops-using-verilog/assets/148959215/cd131aa9-c8d8-471d-b7f0-c3b04ff786df)
 
+### D FLIPFLOP
 
+![image](https://github.com/Lathika2006/Experiment--05-Implementation-of-flipflops-using-verilog/assets/148959215/f73088c5-ff10-4900-9ddd-01ed62be7e96)
 
+### JK FLIPFLOP
 
+![image](https://github.com/Lathika2006/Experiment--05-Implementation-of-flipflops-using-verilog/assets/148959215/734e8bc1-cff7-4560-badf-bd02e81aeec7)
+
+### T FLIPFLOP
+
+![image](https://github.com/Lathika2006/Experiment--05-Implementation-of-flipflops-using-verilog/assets/148959215/b05cf660-c483-4035-96d8-a1c543333430)
 
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
-![image](https://github.com/Lathika2006/Experiment--05-Implementation-of-flipflops-using-verilog/assets/148959215/5a8ff514-137e-4a28-8d53-697740fa7b7c)
+### SR FLIPFLOP
 
+![image](https://github.com/Lathika2006/Experiment--05-Implementation-of-flipflops-using-verilog/assets/148959215/63287543-6834-4adf-8a9b-56f16b7df916)
 
+### D FLIPFLOP
 
+![image](https://github.com/Lathika2006/Experiment--05-Implementation-of-flipflops-using-verilog/assets/148959215/4b103142-ad92-4da0-bfe0-83f86c6a0ce7)
 
+### JK FLIPFLOP
 
+![image](https://github.com/Lathika2006/Experiment--05-Implementation-of-flipflops-using-verilog/assets/148959215/f6a2ba37-98c6-4e84-8f2c-134215a937e8)
+
+### T FLIPFLOP
+
+![image](https://github.com/Lathika2006/Experiment--05-Implementation-of-flipflops-using-verilog/assets/148959215/87bbed89-18b3-4677-bf0d-0987264542fb)
 
 
 ### RESULTS 
+
+Implementation-of-flipflops-using-verilog successfully completed.
